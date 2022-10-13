@@ -1,0 +1,26 @@
+{
+  "name": "SampleApp",
+  "description": "SampleApp",
+  "display": "SampleApp",
+  "subtitle": "Subtitle",
+  "theme": "#6C48CC",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/icons/icon56x56.png",
+    "84": "/icons/icon84x84.png"
+  },
+  "developer": {
+    "name": "Jio",
+    "url": "http://www.jio.com"
+  },
+  "version": "1.0.0.0",
+  "cursor": true,
+  "type": "privileged",
+  "fullscreen": false,
+  "default_locale": "en",
+  "locales": {
+    "en-US": {
+      "name": "SampleApp"
+    }
+  }
+}
